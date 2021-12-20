@@ -192,7 +192,7 @@ header {
 .home {
   height: 100vh;
   background:  center / cover no-repeat fixed;
-  background-image: url(/img/home.webp);
+  background-image: url(img/home.webp);
   max-width: 100%;
 }
 
