@@ -114,9 +114,9 @@ header {
   display: none;
 }
 @media (max-width:767px){
-  body.block {
+  /* body.block {
     overflow: hidden;
-  }
+  } */
   .header__burger {
     display: block;
     position: relative;
